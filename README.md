@@ -103,7 +103,7 @@
 
 - ⚡ **Core Stack:** Pure HTML, CSS, Vanilla JS — no bloat, maximum velocity
 - 🗄️ **Infrastructure:** Supabase · Vercel · Google Sheets Integration
-- 🧠 **Features:** Timed exam simulation · GPA Calculator · Renance AI · 500+ Question Banks
+- 🧠 **Features:** Timed exam simulation · GPA Calculator · Renance AI · 10000+ Question Banks
 - 🎨 **Design:** Dark mode, high-contrast Studio/IDE aesthetic
 - 🎯 **Targets:** SEN 101 · MTH 101 · COS 101 (100L FUTA courses)
 
