@@ -162,8 +162,8 @@
 ## 📊 Developer Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Resolutefemi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resolutefemi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Resolutefemi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Resolutefemi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="49%" />
 </div>
 
 <br/>
@@ -175,63 +175,20 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Resolutefemi&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Contribution Graph" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Resolutefemi&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="Trophies" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-
-
-
-  <img src="https://raw.githubusercontent.com/Resolutefemi/Resolutefemi/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Resolutefemi&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=58A6FF&line=58A6FF&point=FF6B6B&area=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Trail
 
-<details>
-<summary>⚙️ Click here — One-time snake setup (takes 2 minutes)</summary>
-
-Create `.github/workflows/snake.yml` in your `Resolutefemi/Resolutefemi` repo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Resolutefemi
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then go to **Actions → Generate Snake → Run workflow**. Done ✅
-
-</details>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Resolutefemi/Resolutefemi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Resolutefemi/Resolutefemi/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Resolutefemi/Resolutefemi/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
@@ -239,8 +196,8 @@ Then go to **Actions → Generate Snake → Run workflow**. Done ✅
 
 ```javascript
 const Resolutefemi = {
-  identity:    ["Blockchain Engineer", "Full-Stack Dev", "Game Dev"],
-  x:           "@Resolutefemi",
+  identity:     ["Blockchain Engineer", "Full-Stack Dev", "Game Dev"],
+  x:            "@Resolutefemi",
   currentFocus: "RENANCE CBT + Web3 Protocols",
   principles: [
     "Write code that handles real money — write it right.",
@@ -249,8 +206,8 @@ const Resolutefemi = {
     "Open source everything that isn't a competitive moat.",
     "Haskell taught me to think. Rust taught me to commit.",
   ],
-  learning:    ["ZK Proofs", "Move Language", "Formal Verification"],
-  openTo:      ["Audits", "Protocol Collab", "Open Source"],
+  learning: ["ZK Proofs", "Move Language", "Formal Verification"],
+  openTo:   ["Audits", "Protocol Collab", "Open Source"],
 };
 ```
 
