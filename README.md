@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Resolutefemi &fontSize=80&fontColor=FFFFFF&animation=fadeIn&desc=Blockchain%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Game%20Dev&descSize=22&descAlignY=75&stroke=58A6FF&strokeWidth=2" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Resolute Femi&fontSize=80&fontColor=FFFFFF&animation=fadeIn&desc=Blockchain%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Game%20Dev&descSize=22&descAlignY=75&stroke=58A6FF&strokeWidth=2" alt="Header" />
 </div>
 
 <br/>
