@@ -22,40 +22,7 @@
   </a>
 </div>
 
-## 👤 About Me — Resolute Femi
-
-Hi, I'm **Resolute Femi** — my full name is **Ariyo Oluwafemi Stephen**. I'm a Nigerian
-**full-stack software engineer** and the **founder of Renance**, a modular education &
-commerce suite. I study Software Engineering at the **Federal University of Technology,
-Akure (FUTA)**, and I build products that make life easier for Nigerian students and
-developers — from CBT exam practice platforms to developer CLI tools.
-
-- 🧑‍💻 **Name:** Ariyo Oluwafemi Stephen (known as **Resolute Femi**)
-- 🏗️ **Founder of:** Renance — the global student study OS
-- 🎓 **School:** Federal University of Technology, Akure (FUTA)
-- 📧 **Email:** ariyooluwafemi487@gmail.com
-- 🛠️ **Stack:** TypeScript · Rust · Go · Python · Next.js · React · Flutter · C
-
-## 🚀 The Renance Suite — Built by Resolute Femi
-
-> **Renance** is a modular education & commerce suite. Students register with just a
-> username + password, sync past questions, notes and syllabi to their device, and take
-> server-graded mock CBT exams on a goroutine engine.
-
-| Product | What it does | Link |
-|---|---|---|
-| **Renance Study OS** | Global student study OS — past questions, notes & syllabi sync, server-graded CBT | [Renance](https://github.com/Resolutefemi/Renance) |
-| **Renance CBT** | Free **FUTA CBT practice** platform for 100-level courses (COS101, GNS103, MTH101…) | [renancecbt2.vercel.app](https://renancecbt2.vercel.app) |
-| **Renance JAMB CBT** | JAMB UTME practice with timed mock exams & analytics | [renance-jamb-cbt.pxxl.click](https://renance-jamb-cbt.pxxl.click) |
-| **Renance DevTools** | CLI with 220+ commands (`pip install renance-dt`) | [devtools.pxxl.click](https://devtools.pxxl.click) |
-| **Renance Playground** | Online 8086 assembly emulator & sandbox | [renasm.vercel.app](https://renasm.vercel.app) |
-| **Naija Locator** | Explore all 36 Nigerian states + FCT — capitals, slogans, LGAs | [naija-locator-ruby.vercel.app](https://naija-locator-ruby.vercel.app) |
-| **FUTA Aggregate Calculator** | Instant FUTA aggregate score from JAMB + O'Level | [futa-aggregate-calc.vercel.app](https://futa-aggregate-calc.vercel.app) |
-| **RustByMastery** | Interactive Rust tutorial platform | [rustbymastery-dev-web.vercel.app](https://rustbymastery-dev-web.vercel.app) |
-| **Devpath** | Interactive developer roadmap & skills tracker | [devpath-lovat.vercel.app](https://devpath-lovat.vercel.app) |
-| **Renance Studio Portfolio** | Showcase of all Renance products | [renance.vercel.app](https://renance.vercel.app) |
-
-## 🛠️ Tech Toolbox
+## 🛠️ Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black)
@@ -66,10 +33,3 @@ developers — from CBT exam practice platforms to developer CLI tools.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-## 📫 Reach Me
-
-- GitHub: [@Resolutefemi](https://github.com/Resolutefemi)
-- Email: [ariyooluwafemi487@gmail.com](mailto:ariyooluwafemi487@gmail.com)
-- X/Twitter: [@Resolutefemi](https://twitter.com/Resolutefemi)
-
-<sub>Everything here is **built by Resolute Femi (Ariyo Oluwafemi Stephen)** ❤️‍🩹</sub>
