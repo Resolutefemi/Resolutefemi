@@ -33,3 +33,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
+<div align="center">
+  <img src="https://github-analytics-incog.vercel.app/api?username=resolutefemi&theme=github_dark" alt="GitHub Analytics" />
+</div>
